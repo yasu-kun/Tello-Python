@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-04-03 08:09:35.182707
+end_time: 2021-04-03 08:09:35.212023
+duration: 0.029316
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2021-04-03 08:09:35.212036
+end_time: 2021-04-03 08:09:37.144172
+duration: 1.932136
+
+id: 2
+command: land
+response: b'error'
+start time: 2021-04-03 08:09:40.149398
+end_time: 2021-04-03 08:09:40.210098
+duration: 0.0607
