@@ -1,0 +1,84 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-04-03 16:16:32.764931
+end_time: 2021-04-03 16:16:32.814341
+duration: 0.04941
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2021-04-03 16:16:32.814361
+end_time: 2021-04-03 16:16:36.793470
+duration: 3.979109
+
+id: 2
+command: up 40
+response: b'ok'
+start time: 2021-04-03 16:16:37.798634
+end_time: 2021-04-03 16:16:40.567873
+duration: 2.769239
+
+id: 3
+command: forward 200
+response: b'ok'
+start time: 2021-04-03 16:16:40.567903
+end_time: 2021-04-03 16:16:43.781071
+duration: 3.213168
+
+id: 4
+command: cw 90
+response: b'ok'
+start time: 2021-04-03 16:16:43.781112
+end_time: 2021-04-03 16:16:45.820517
+duration: 2.039405
+
+id: 5
+command: forward 200
+response: b'ok'
+start time: 2021-04-03 16:16:45.820541
+end_time: 2021-04-03 16:16:48.881447
+duration: 3.060906
+
+id: 6
+command: cw 90
+response: b'ok'
+start time: 2021-04-03 16:16:48.881478
+end_time: 2021-04-03 16:16:50.869325
+duration: 1.987847
+
+id: 7
+command: forward 200
+response: b'error Motor stop'
+start time: 2021-04-03 16:16:50.869364
+end_time: 2021-04-03 16:16:53.828074
+duration: 2.95871
+
+id: 8
+command: cw 90
+response: b'error Motor stop'
+start time: 2021-04-03 16:16:53.828109
+end_time: 2021-04-03 16:16:53.979897
+duration: 0.151788
+
+id: 9
+command: forward 200
+response: b'error Motor stop'
+start time: 2021-04-03 16:16:53.979923
+end_time: 2021-04-03 16:16:54.031134
+duration: 0.051211
+
+id: 10
+command: cw 360
+response: b'error Motor stop'
+start time: 2021-04-03 16:16:54.031147
+end_time: 2021-04-03 16:16:54.183887
+duration: 0.15274
+
+id: 11
+command: land
+response: b'error'
+start time: 2021-04-03 16:16:55.189054
+end_time: 2021-04-03 16:16:55.203910
+duration: 0.014856

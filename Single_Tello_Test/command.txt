@@ -1,4 +1,20 @@
 command
 takeoff
-delay 3
+delay 1
+up 50
+forward 250
+flip f
+delay 1
+flip b
+delay 1
+flip l
+delay 1
+flip r
+delay 1
+
+cw 180
+
+forward 270
+
+delay 1
 land
